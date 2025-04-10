@@ -1,6 +1,6 @@
 # Compiler and flags
 CXX = g++
-CXXFLAGS = -Wall -Wextra -std=c++17 -fPIC
+CXXFLAGS = -Wall -Wextra -std=c++20 -fPIC
 
 # Source files and targets
 LIBSRC = mandelbrot.cpp
