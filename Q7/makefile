@@ -1,6 +1,6 @@
 # Compiler and flags
 CXX = g++
-CXXFLAGS = -Wall -Wextra -pedantic -std=c++11
+CXXFLAGS = -Wall -Wextra -pedantic -std=c++20
 
 # Targets (executables)
 TARGETS = findPhone add2PB
